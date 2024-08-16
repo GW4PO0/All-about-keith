@@ -34,7 +34,7 @@ hr {
 .history-table tbody tr:last-of-type {
     border-bottom: 4px solid #EEEEEE ;
 }
-h1 , h2, ul, address, tr{
+h1 , h2, ul, address, tr, h4{
     color: #1A3636;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
